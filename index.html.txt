@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My AI Agent</title>
+</head>
+<body>
+  <h1>Welcome to My AI Agent!</h1>
+  
+  <!-- Chatbase Embed -->
+  <iframe
+    src=<iframe
+    src="https://www.chatbase.co/chatbot-iframe/UJjAb2u1Ioybf4nLtJBeK"
+    width="100%"
+    style="height: 100%; min-height: 700px"
+    frameborder="0"
+></iframe>
+    width="100%" height="600">
+  </iframe>
+</body>
+</html>
